@@ -1,5 +1,4 @@
-
-
+# Swiggy_SQL_Analysis
 
 # 🍽️ Swiggy SQL Data Analysis Project  
 <img width="1020" height="400" alt="image" src="https://github.com/user-attachments/assets/b19c2fc9-acf7-40b5-b44e-bca3bff88f17" />
@@ -718,5 +717,4 @@ CALL GetRestaurantPerformance(1, '2024-01-01', '2024-12-31');
 ---
 ## Notice
 All customer names and data used in this project are computer-generated using AI and random functions. They do not represent real data associated with Swiggy or any other entity. This project is solely for learning and educational purposes, and any resemblance to actual persons, businesses, or events is purely coincidental.
-
 
